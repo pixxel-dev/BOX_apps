@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ru.lynkco.box",
+    "name": "LynkBox",
+    "version": "1.00.00",
+    "iconUrl": "https://raw.githubusercontent.com/pixxel-dev/BOX_apps/main/icons/lynkbox.png",
+    "downloadUrl": "https://github.com/pixxel-dev/BOX_apps/releases/download/v1.0.0/LynkBox-v1.0.0.apk",
+    "isAdaptedFullscreen": true,
+    "description": "Официальный магазин приложений для автомобилей Lynk&Co. Обеспечивает загрузку, установку и обновление программ."
+  },
+  {
+    "id": "ru.yandex.yandexnavi",
+    "name": "Яндекс Навигатор",
+    "version": "17.0.1",
+    "iconUrl": "https://raw.githubusercontent.com/pixxel-dev/BOX_apps/main/icons/yandexnavi.png",
+    "downloadUrl": "https://github.com/pixxel-dev/BOX_apps/releases/download/apps/yandexnavi-17.0.1.apk",
+    "isAdaptedFullscreen": true,
+    "description": "Навигатор с пробками, камерами и маршрутами. Адаптирован для полного экрана."
+  }
+]
