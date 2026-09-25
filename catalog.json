@@ -2,9 +2,9 @@
   {
     "id": "ru.lynkco.box",
     "name": "LynkBox",
-    "version": "1.00.00",
+    "version": "1.0.6",
     "iconUrl": "https://raw.githubusercontent.com/pixxel-dev/BOX_apps/main/icons/lynkbox.png",
-    "downloadUrl": "https://github.com/pixxel-dev/BOX_apps/releases/download/v1.0.0/LynkBox-v1.0.1.apk",
+    "downloadUrl": "https://github.com/pixxel-dev/BOX_apps/releases/v1.0.6/LynkBox-v1.0.6.apk",
     "isAdaptedFullscreen": true,
     "description": "Официальный магазин приложений для автомобилей Lynk&Co. Обеспечивает загрузку, установку и обновление программ."
   },
