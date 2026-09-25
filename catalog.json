@@ -11,9 +11,9 @@
   {
     "id": "ru.yandex.yandexnavi",
     "name": "Яндекс Навигатор",
-    "version": "17.0.1",
+    "version": "17.0.5",
     "iconUrl": "https://raw.githubusercontent.com/pixxel-dev/BOX_apps/main/icons/yandexnavi.png",
-    "downloadUrl": "https://github.com/pixxel-dev/BOX_apps/releases/download/apps/yandexnavi-17.0.1.apk",
+    "downloadUrl": "https://github.com/pixxel-dev/BOX_apps/releases/download/apps/yandexnavi-17.0.5.apk",
     "isAdaptedFullscreen": true,
     "description": "Навигатор с пробками, камерами и маршрутами. Адаптирован для полного экрана."
   }
